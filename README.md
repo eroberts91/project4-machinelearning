@@ -10,3 +10,7 @@ Methodology: our approach involves the supervised training of several different 
 Objective: Our primary goal is to develop a predictive model capable of accurately detecting fraudulent purchases based off of identified risk factors. With the help of advanced machine learningwe will be able to reduce financial losses and mitigate risks to consumers and business alike.
 
 Presentation Link: https://docs.google.com/presentation/d/1CE0OPqaarh1Mzl93HfKtDV9jgXIAiqNi/edit?usp=sharing&ouid=115141138936748179846&rtpof=true&sd=true
+
+
+NOTE: CSV FILE TOO LARGE TO UPLOAD, PLEASE DOWNLOAD FROM LINK BELOW AND PLACE INTO RESOURCES FOLDER TO RUN CODE
+https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data
