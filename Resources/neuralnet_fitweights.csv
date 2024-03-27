@@ -1,0 +1,25 @@
+,Feature Weight
+amt,7.194645
+zip,0.2776524
+lat,0.31835037
+long,0.4787962
+city_pop,0.107237875
+unix_time,0.05661528
+merch_lat,0.32375526
+merch_long,0.5011528
+category_entertainment,3.4064941
+category_food_dining,3.58359
+category_gas_transport,5.155409
+category_grocery_net,3.4669251
+category_grocery_pos,4.312452
+category_health_fitness,3.6034951
+category_home,2.4384522
+category_kids_pets,5.4725227
+category_misc_net,4.8396945
+category_misc_pos,3.6012223
+category_personal_care,4.2482157
+category_shopping_net,6.879355
+category_shopping_pos,3.801559
+category_travel,3.826572
+gender_F,1.0462372
+gender_M,1.0626013
